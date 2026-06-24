@@ -1,0 +1,25 @@
+When a school plans an open day, most people think about banners, student performances, parent reception, temporary booths, and the schedule of activities. The network is usually noticed only when it fails. That was the situation faced by a school in Thailand before upgrading the wireless coverage for its outdoor sports field.
+
+The campus already had basic network access for daily teaching. On normal school days, the system carried a manageable load: teachers used mobile devices, students connected in controlled areas, and office staff accessed internal systems. The sports field did not appear to be a serious problem because it was not under constant heavy use. During regular training sessions, connectivity was acceptable enough.
+
+Open day was different. Parents entered through the main gate in large groups. Registration staff needed stable access for QR check-in. Teachers moved between the field, temporary booths, and management areas with tablets. The activity stage required live streaming and media upload. Visitors gathered in the viewing area, taking photos, sharing videos, and messaging family members. At the same time, school staff needed a separate working network that would not be affected by guest traffic.
+
+The school had experienced this pressure before. During previous events, check-in slowed at the entrance, livestreaming from the stage became unstable, and teachers sometimes had trouble accessing management tools. The old approach treated the outdoor field as one large open space. In reality, it behaved like several different network environments operating at the same time.
+
+The school selected a COMFAST solution built around CF-AC100, CF-SG181P, and CF-EW87. The final project included one CF-AC100 gateway, two CF-SG181P PoE switches, and fourteen CF-EW87 outdoor access points. COMFAST engineers helped the school divide the sports field into practical zones: entrance and check-in area, parent viewing area, stage and livestreaming area, temporary booth area, teacher management area, and general field coverage.
+
+This zoning became the foundation of the [stadium WiFi deployment](https://wifioem.com/full-scenario-wireless-coverage-deployment-record-for-sakura-field-stadium) . Instead of placing access points only by distance, the team considered how people would move during the event. The entrance area needed to handle sudden bursts of connections because parents arrived in waves. The stage area needed more stable uplink behavior for live video. The teacher management zone required reliability rather than public capacity. The parent viewing area needed to handle many phones active at the same time.
+
+PoE planning was another important part of the project. Outdoor event networks often fail not because the AP is unsuitable, but because power delivery, cable routing, or switch capacity was not planned carefully. COMFAST engineers assisted with PoE switch selection, port allocation, cable labeling, and basic maintenance documentation. This gave the school IT team a clearer way to inspect the system before and after major events.
+
+During installation, AP placement was adjusted according to mounting height, coverage angle, physical obstacles, and future maintenance access. A school field is not a permanent stadium with fixed engineering rooms everywhere. Some locations must remain visually clean and safe for students. Equipment needed to support the event without interfering with movement, teaching, or temporary activity setups.
+
+Before the next open day, COMFAST engineers also provided remote training for the local team. The training focused on basic troubleshooting: how to check gateway status, how to verify PoE switch operation, how to identify whether a problem came from guest traffic or teacher devices, and how to inspect AP zones one by one. This was especially useful because school IT teams are often responsible for many systems at once, not only wireless networks.
+
+When the upgraded system was used during the open day, the difference was most visible at the entrance. QR check-in moved more smoothly because the registration network was no longer competing directly with all guest devices. The stage livestream remained more stable, and teachers reported fewer interruptions when using tablets in the management zone. Parents in the viewing area could still connect for basic communication and sharing without overwhelming the operational network.
+
+The project also changed how the school viewed outdoor connectivity. The sports field was no longer treated as a simple extension of the indoor network. It became an event space with its own traffic patterns, user groups, and reliability requirements.
+
+The main lesson is clear: school sports fields and outdoor event areas should not be planned only by coverage distance. Open days, sports meetings, performances, and parent events create short periods of very high demand. A good network must support those peaks while keeping staff systems stable.
+
+For this Thai school, the upgrade was not about installing more equipment everywhere. It was about building a network that understood the event.
