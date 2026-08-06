@@ -28,7 +28,7 @@ It was the operational cost.
 
 Travel time, troubleshooting hours, inconsistent configurations, and delayed problem resolution all affected the business.
 
-While reviewing alternatives, I studied how [SD-WAN reduces enterprise networking costs ](https://wifioem.com/how-sd-wan-reduces-enterprise-networking-costs/) ：https://wifioem.com/how-sd-wan-reduces-enterprise-networking-costs/ and realized that network expenses should be evaluated across the entire operation, not only by looking at the price of each connection.
+While reviewing alternatives, I studied how [SD-WAN reduces enterprise networking costs ](https://wifioem.com/how-sd-wan-reduces-enterprise-networking-costs/) and realized that network expenses should be evaluated across the entire operation, not only by looking at the price of each connection.
 
 Understanding What the Business Actually Needed
 
