@@ -14,7 +14,7 @@ Our system integrator reviewed all twelve branches. COMFAST engineers were given
 
 The first recommendation was not to make every branch identical. It was to make the important rules identical.
 
-That distinction sits at the centre of [multi-store network management ](https://wifioem.com/how-to-manage-wifi-pos-and-vpn-across-multiple-chain-store-locations/) t. A 70-square-metre kiosk and a 350-square-metre flagship store do not need the same hardware, but POS traffic, staff access, guest WiFi, device naming, VPN policy, and administrator permissions should follow the same operating logic.
+That distinction sits at the centre of [multi-store network management ](https://wifioem.com/how-to-manage-wifi-pos-and-vpn-across-multiple-chain-store-locations/) . A 70-square-metre kiosk and a 350-square-metre flagship store do not need the same hardware, but POS traffic, staff access, guest WiFi, device naming, VPN policy, and administrator permissions should follow the same operating logic.
 
 We grouped our branches into three types.
 
